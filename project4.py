@@ -1,6 +1,6 @@
 import math
 
-nominal = 1048576
+nominal = int(input("Please enter the nominal size : "))
 
 words_per_block = int(input("Enter the amount of words per block: "))
 
